@@ -1,4 +1,5 @@
 # Neural_Network_Charity_Analysis
+
 ## Purpose
 The purpose of this project is to create a binary classifier using machine learning. This analysis is conducted for a hypothetical organization, Alphabet Soup. We will analyze a CSV of more than 34,000 organizations that have received funding from Alphabet Soup over the years to predict whether applicants will be successful if funded by Alphabet Soup.
 
